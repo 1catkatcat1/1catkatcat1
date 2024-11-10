@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @1catkatcat1
 - 👀 I’m interested in minecraft, linux, java, furry
 - 🌱 I’m currently learning Java for minecrafg
-- 📫 How to reach me: my discord @catkatcat
+- 📫 How to reach me: my discord @.catkatcat.
 - 😄 Pronouns: any pronouns
 
 <!---
